@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pt4gceda97KFlr+M3iKPwYrM3g++JUUDsQbRzbjOX9YdDO2r2d+LU3JBBbXkVmNHZ6fOPGhRDH77j7/tPuEfuQ==",
+  "dgSpecHash": "CTr2AZguls1XqJLOIrnuL58vErKPUzxXFXyRMIY/+8dkcOS0xIIptUcctv141o98xr4f0KNakUCsdfwtpchf6A==",
   "success": true,
   "projectFilePath": "/Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/Automation.Framework.Core.WebUI.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,8 @@
     "/Users/homayoun/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",
     "/Users/homayoun/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/homayoun/.nuget/packages/microsoft.dotnet.platformabstractions/1.0.3/microsoft.dotnet.platformabstractions.1.0.3.nupkg.sha512",
+    "/Users/homayoun/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/homayoun/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "/Users/homayoun/.nuget/packages/microsoft.extensions.dependencymodel/1.0.3/microsoft.extensions.dependencymodel.1.0.3.nupkg.sha512",
     "/Users/homayoun/.nuget/packages/microsoft.net.test.sdk/17.3.2/microsoft.net.test.sdk.17.3.2.nupkg.sha512",
     "/Users/homayoun/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
@@ -37,6 +39,9 @@
     "/Users/homayoun/.nuget/packages/runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.2/runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "/Users/homayoun/.nuget/packages/runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl/4.3.2/runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "/Users/homayoun/.nuget/packages/runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.2/runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "/Users/homayoun/.nuget/packages/serilog/2.12.0/serilog.2.12.0.nupkg.sha512",
+    "/Users/homayoun/.nuget/packages/serilog.enrichers.thread/3.1.0/serilog.enrichers.thread.3.1.0.nupkg.sha512",
+    "/Users/homayoun/.nuget/packages/serilog.sinks.file/5.0.0/serilog.sinks.file.5.0.0.nupkg.sha512",
     "/Users/homayoun/.nuget/packages/specflow/3.9.74/specflow.3.9.74.nupkg.sha512",
     "/Users/homayoun/.nuget/packages/specflow.internal.json/1.0.8/specflow.internal.json.1.0.8.nupkg.sha512",
     "/Users/homayoun/.nuget/packages/specflow.nunit/3.9.74/specflow.nunit.3.9.74.nupkg.sha512",

@@ -17,4 +17,10 @@
         <PackageReference Include="SpecFlow.NUnit" Version="3.9.74" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="DataSetLocation" />
+      <Folder Include="Results" />
+      <Folder Include="TestCases" />
+    </ItemGroup>
+
 </Project>

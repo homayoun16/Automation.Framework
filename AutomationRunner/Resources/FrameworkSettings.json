@@ -1,0 +1,14 @@
+{
+  "BrowserType": "",
+  "BrowserVersion": "",
+  "GridUrl": "",
+  "Region": "T2",
+  "StepScreenShot": "off",
+  "ExtentReportPortalUrl": "",
+  "ExtentReportToPortal": "off",
+  "LogLevel": "Debug",
+  "DataSetLocation": "",
+  "DownloadLocation": ""
+  
+  
+}
