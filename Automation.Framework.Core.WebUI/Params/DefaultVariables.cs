@@ -4,12 +4,24 @@ namespace Automation.Framework.Core.WebUI.Params;
 
 public class DefaultVariables: IDefaultVariables
 {
-    private string Results =>
-        GetSolutionDirectory() + @"/AutomationRunner/Results/Reports" +
-        DateTime.Now.ToString("yyyyMMdd hhmmss");
+    private string Results
+    {
+        get
+        {
+           return GetSolutionDirectory() + @"/AutomationRunner/Results/Reports" +
+                DateTime.Now.ToString("yyyyMMdd hhmmss");
+        }
+    }
 
-    public string Log =>
-        Results + "\\log.txt";
+
+    public string Log
+    {
+        get
+        {
+           return Results + "/log.txt";
+        }
+    }
+       
 
     public string Resources
     {
