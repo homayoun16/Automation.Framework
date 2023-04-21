@@ -1,4 +1,4 @@
-/Automation.Framework.Core.WebUI/bin
-/Automation.Framework.Core.WebUI/obj
-/AutomationRunner/obj
-/AutomationRunner/bin
+/Automation.Framework.Core.WebUI/bin/
+/Automation.Framework.Core.WebUI/obj/
+/AutomationRunner/obj/
+/AutomationRunner/bin/
