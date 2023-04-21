@@ -1,0 +1,17 @@
+{
+    "bindingCulture":
+    {
+        "name" :"en-us"
+    },
+    "language":
+    {
+        "feature": "en-us"
+    },
+    "stepAssemblies": [
+
+        {
+            "assembly": "Automation.Framework.Core.WebUI"
+        }
+    
+]
+}

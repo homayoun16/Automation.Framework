@@ -6,4 +6,13 @@ public interface IDefaultVariables
     {
         get;
     }
+
+    public string Resources
+    {
+        get;
+    }
+
+    string? GridHubUrl { get; }
+    
+    string FilePath { get; }
 }

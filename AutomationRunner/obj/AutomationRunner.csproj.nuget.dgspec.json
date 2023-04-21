@@ -4,14 +4,14 @@
     "/Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/AutomationRunner.csproj": {}
   },
   "projects": {
-    "/Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/AutomationRunner.csproj": {
+    "/Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/Automation.Framework.Core.WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/AutomationRunner.csproj",
-        "projectName": "AutomationRunner",
-        "projectPath": "/Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/AutomationRunner.csproj",
+        "projectUniqueName": "/Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/Automation.Framework.Core.WebUI.csproj",
+        "projectName": "Automation.Framework.Core.WebUI",
+        "projectPath": "/Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/Automation.Framework.Core.WebUI.csproj",
         "packagesPath": "/Users/homayoun/.nuget/packages/",
-        "outputPath": "/Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/obj/",
+        "outputPath": "/Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/homayoun/.nuget/NuGet/NuGet.Config"
@@ -38,17 +38,108 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.3.2, )"
             },
-            "NUnit": {
+            "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[3.13.3, )"
+              "version": "[4.2.1, )"
             },
-            "NUnit.Analyzers": {
+            "Serilog": {
               "target": "Package",
-              "version": "[3.3.0, )"
+              "version": "[2.12.0, )"
+            },
+            "Serilog.Enrichers.Thread": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/AutomationRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/AutomationRunner.csproj",
+        "projectName": "AutomationRunner",
+        "projectPath": "/Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/AutomationRunner.csproj",
+        "packagesPath": "/Users/homayoun/.nuget/packages/",
+        "outputPath": "/Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/homayoun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/Automation.Framework.Core.WebUI.csproj": {
+                "projectPath": "/Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/Automation.Framework.Core.WebUI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
