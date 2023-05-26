@@ -128,3 +128,7 @@
 /Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/bin/Debug/net7.0/Automation.Framework.Core.WebUI.dll
 /Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/bin/Debug/net7.0/Automation.Framework.Core.WebUI.pdb
 /Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/bin/Debug/net7.0/Resources/applicationRegion.json
+/Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/bin/Debug/net7.0/selenium-manager/linux/selenium-manager
+/Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/bin/Debug/net7.0/selenium-manager/macos/selenium-manager
+/Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/bin/Debug/net7.0/selenium-manager/windows/selenium-manager.exe
+/Users/homayoun/Documents/CSharp/Automation.Framework/AutomationRunner/bin/Debug/net7.0/WebDriver.dll

@@ -120,3 +120,7 @@
 /Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/obj/Debug/net7.0/Automation.Framework.Core.WebUI.pdb
 /Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/obj/Debug/net7.0/Automation.Framework.Core.WebUI.genruntimeconfig.cache
 /Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/obj/Debug/net7.0/ref/Automation.Framework.Core.WebUI.dll
+/Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/bin/Debug/net7.0/selenium-manager/linux/selenium-manager
+/Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/bin/Debug/net7.0/selenium-manager/macos/selenium-manager
+/Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/bin/Debug/net7.0/selenium-manager/windows/selenium-manager.exe
+/Users/homayoun/Documents/CSharp/Automation.Framework/Automation.Framework.Core.WebUI/bin/Debug/net7.0/WebDriver.dll
