@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[4.2.1, )"
             },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
             "Serilog": {
               "target": "Package",
               "version": "[2.12.0, )"

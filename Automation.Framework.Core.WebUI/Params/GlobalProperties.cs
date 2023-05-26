@@ -90,7 +90,7 @@ public class GlobalProperties: IGlobalProperties
             System.Environment.Exit(0);
         }
         
-        _iLogging.Debug("****************************************************************************************");
+        _iLogging.Debug("***********************************************************************************");
         _iLogging.Information("**********************************************************************************");
         _iLogging.Information("Configuration | RUN PARAMETERS");
         _iLogging.Information("**********************************************************************************");
@@ -104,8 +104,8 @@ public class GlobalProperties: IGlobalProperties
         _iLogging.Information("Configuration|LOG LEVEL: "+ LogLevel);
         _iLogging.Information("Configuration|DATA SET LOCATION: "+ DataSetLocation);
         _iLogging.Information("Configuration|DOWNLOADED LOCATION: "+ DownloadedLocation);
-        _iLogging.Debug("****************************************************************************************");
-        _iLogging.Debug("****************************************************************************************");
+        _iLogging.Debug("***********************************************************************************");
+        _iLogging.Debug("***********************************************************************************");
 
     }
 }

@@ -14,4 +14,9 @@ public class SpecflowRunner
         ContainerConfig.ConfigureService().GetRequiredService<IGlobalProperties>();
        
     }
+    [BeforeFeature] 
+    public static void BeforeFeature(FeatureContext featureContext)
+    {
+        
+    }
 }
